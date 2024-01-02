@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Netflix_Task/static/css/main.7d55ad83.css",
+    "main.js": "/Netflix_Task/static/js/main.5d5bb5f1.js",
+    "static/media/avatar.png": "/Netflix_Task/static/media/avatar.f8f97a235eec7b925a01.png",
+    "static/media/logo.png": "/Netflix_Task/static/media/logo.b39480d09d45609d9d6f.png",
+    "index.html": "/Netflix_Task/index.html",
+    "main.7d55ad83.css.map": "/Netflix_Task/static/css/main.7d55ad83.css.map",
+    "main.5d5bb5f1.js.map": "/Netflix_Task/static/js/main.5d5bb5f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d55ad83.css",
+    "static/js/main.5d5bb5f1.js"
+  ]
+}
